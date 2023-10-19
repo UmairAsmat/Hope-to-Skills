@@ -1,9 +1,9 @@
-## Hope-to-Skills
-# Artificial Intelligence (AI) Free Basic Course In this course, you will learn about the fundamentals of Artificial Intelligence and how it is transforming the world.
+# Hope-to-Skills
+## Artificial Intelligence (AI) Free Basic Course In this course, you will learn about the fundamentals of Artificial Intelligence and how it is transforming the world.
 
 # Course Outline
 
-# Stage 0: Orientation days (1)
+## Stage 0: Orientation days (1)
 What it AI?
 What is future going to be like?
 Some Demos and interesting videos on it.
@@ -20,13 +20,13 @@ Work Ethics
 Practise sessions
 Evaluations
 Professional Grooming
-# Stage 1: Introduction with the Tools days (3 to 4)
+## Stage 1: Introduction with the Tools days (3 to 4)
 Introduction to Chat Gpt and Interaction with it.
 Introduction to Dall-E  and interaction with it.
 Introduction to Stable Diffusion and interaction with it
 Guideline about prompting.
 At the initial stage the students should interact with Open.ai tools like Chat GPT and DALL-E-2. This will greatly develop their interest and help them understand the products better. From this they will also learn the prompting which will help them later.
-# Stage 2: Basics of python days (20 to 30)
+## Stage 2: Basics of python days (20 to 30)
 Installing the IDE and Making Environments
 Basic Variables
 Data types
@@ -44,7 +44,7 @@ Declaration
 Initialization
 Code practise with Chat GPT
 Stage Evaluation
-# Stage 3: Basics of ML days (5 to 6)
+## Stage 3: Basics of ML days (5 to 6)
 Introduction the Machine Learning
 Supervised Learning
 Video demo
@@ -72,7 +72,7 @@ Accuracy
 Precision
 Recall
 Stage Evaluation
-# Stage 4: Basics of API days (10 to 15)
+## Stage 4: Basics of API days (10 to 15)
 Introduction to API
 Basics of API
 Open.ai API
@@ -81,7 +81,7 @@ Fast API
 Stage Project 1: (NLP Project)
 Stage Project 2: (Image Generation Project)
 Stage Evaluation
-# Stage 5: Basics of ML frame work days (20 to 30)
+## Stage 5: Basics of ML frame work days (20 to 30)
 Understanding of Scikit-learn for Machine Learning Models
 Working with Structured Data (ETL Pipeline) Using Scikit-Learn
 Data Cleaning (Missing Values and Outliers)
@@ -96,7 +96,7 @@ Creating Regression Models using Scikit-learn
 Evaluating Regression Models
 Creating Recommender System (Content Based and Collaborative Filtering based)
 Stage Project
-# Stage 6: Basics of Data Visualisations days (5 to 7)
+## Stage 6: Basics of Data Visualisations days (5 to 7)
 Basic concepts of Matplotlib
 Introduction to Visualisations
 Line plot
@@ -108,7 +108,7 @@ Box plot
 Creating Visualisations using Seaborn
 Creating Visualisations using Plotly
 Stage Evaluation
-# Stage 7: Introduction to Hugging Face days (10 to 15)
+## Stage 7: Introduction to Hugging Face days (10 to 15)
 Introduction to Hugging Face
 Installation and Setup
 Text Classification using Pipelines
@@ -118,7 +118,8 @@ Hand on practise
 Sentiment Analysis With Pipelines
 Hands on practise
 Stage Evaluation
-## You will learn
+
+# You will learn
 Understanding of the fundamentals of artificial intelligence and its various applications.
 Familiarity with popular AI tools like ChatGPT, DALL-E, and Stable Diffusion.
 Proficiency in Python programming language and its data structures, control statements, functions, and classes.
