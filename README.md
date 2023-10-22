@@ -1,6 +1,6 @@
 # Hope-to-Skills
 ## Artificial Intelligence (AI) Free Basic Course In this course, you will learn about the fundamentals of Artificial Intelligence and how it is transforming the world.
-
+https://www.youtube.com/playlist?list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t
 # Course Outline
 
 ## Stage 0: Orientation days (1)
